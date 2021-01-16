@@ -1,0 +1,15 @@
+{
+    "name": "Scriptable",
+    "references": [
+        "GUID:6441f9d21cb8b40488210c3d97eaefd2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

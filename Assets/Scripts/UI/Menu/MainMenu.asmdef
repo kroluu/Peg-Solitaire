@@ -1,0 +1,20 @@
+{
+    "name": "MainMenu",
+    "references": [
+        "GUID:3ddfc0bfc68a81048a946926496c5a4a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6441f9d21cb8b40488210c3d97eaefd2",
+        "GUID:cff71a20de113e246b5caa99a72a747d",
+        "GUID:0e64cf17ed86e2b479aca66b4ccea27f",
+        "GUID:924a910a77b05da40b22a3ec0e0072fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

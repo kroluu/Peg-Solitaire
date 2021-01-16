@@ -1,0 +1,15 @@
+{
+    "name": "Audio",
+    "references": [
+        "GUID:17be6de90c16dc140a077a985b396ee7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

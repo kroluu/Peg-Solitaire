@@ -1,0 +1,17 @@
+{
+    "name": "Board",
+    "references": [
+        "GUID:17be6de90c16dc140a077a985b396ee7",
+        "GUID:6441f9d21cb8b40488210c3d97eaefd2",
+        "GUID:cff71a20de113e246b5caa99a72a747d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

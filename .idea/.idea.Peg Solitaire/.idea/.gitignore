@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Peg Solitaire.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\WORK PROJECTS\Peg Solitaire\.idea\.idea.Peg Solitaire\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
